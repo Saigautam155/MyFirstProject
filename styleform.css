@@ -1,0 +1,25 @@
+.heading{
+	text-align: center;
+	font-family: "Roboto";
+}
+
+.tab{
+	display: flex;
+	justify-content: center;
+}
+	
+table,tr,td{
+	border-spacing: 5px;
+	border: solid 1px;
+	
+}
+
+.bg{
+	background-color: cyan;
+}
+
+
+
+.buttons{
+	text-align: center;
+}
